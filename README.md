@@ -41,6 +41,12 @@ pip install numpy scipy opencv-python matplotlib
 
 3. Run the script to see the effects of motion blur, noise addition, and Wiener filtering.
 
+## Example
+
+Below are the results demonstrating the image processing workflow. You can replace the placeholders with actual images from medical imaging datasets to visualize the effects.
+
+![Example Image](image-processing-tooth.png)
+
 ## MSE Results
 
 - **MSE between original and noisy image**: 6505.30
